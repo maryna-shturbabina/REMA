@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assortments"
+    id="1a4dec39-60e6-49bc-8c3a-53dd0e5e09b9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-626dec3a-da50-4ba0-971b-8d799d8541d6.xml#id-626dec3a-da50-4ba0-971b-8d799d8541d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d5daae0e-28ee-475c-995f-a083a196fddc.xml#id-d5daae0e-28ee-475c-995f-a083a196fddc"/>
+</archimate:FlowRelationship>
