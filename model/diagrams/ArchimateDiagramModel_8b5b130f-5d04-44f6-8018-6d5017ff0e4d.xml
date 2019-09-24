@@ -843,7 +843,7 @@
         fillColor="#c9e7b7">
       <bounds
           x="24"
-          y="576"
+          y="468"
           width="313"
           height="73"/>
       <children
@@ -888,7 +888,7 @@
         fillColor="#c9e7b7">
       <bounds
           x="25"
-          y="468"
+          y="553"
           width="312"
           height="84"/>
       <children
@@ -960,9 +960,9 @@
         fillColor="#c9e7b7">
       <bounds
           x="24"
-          y="660"
+          y="648"
           width="313"
-          height="73"/>
+          height="85"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="4756e29b-9f3c-45f2-8670-149812d1809e"
@@ -1007,7 +1007,7 @@
         x="100"
         y="24"
         width="217"
-        height="817"/>
+        height="829"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b8c4738d-6bed-4774-9d09-569af6a6a088"
