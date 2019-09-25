@@ -32,7 +32,7 @@
     <children
         xsi:type="archimate:SketchModelSticky"
         id="240e9257-8423-4334-add7-5049fdc7fc5e"
-        name="fsdfsdf"
+        name="fsdfsdfdsfsdfasdfsadfasdfsadfsdaf"
         targetConnections="505b055d-3135-43ce-993a-a838e75e61a0"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -154,6 +154,7 @@
         xsi:type="archimate:SketchModelSticky"
         id="c5dc22a3-9248-47bb-b42d-25a234df741c"
         name="Sticky"
+        targetConnections="a5703ca2-5e6f-467d-bddc-443ac0b0c244"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#b5ffff">
@@ -498,5 +499,20 @@
           width="135"
           height="70"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="dee6f716-6e34-4154-ae8c-c63d19be6ac8"
+      name="Backoffice user">
+    <sourceConnections
+        id="a5703ca2-5e6f-467d-bddc-443ac0b0c244"
+        source="dee6f716-6e34-4154-ae8c-c63d19be6ac8"
+        target="c5dc22a3-9248-47bb-b42d-25a234df741c"
+        type="1"/>
+    <bounds
+        x="132"
+        y="612"
+        width="75"
+        height="100"/>
   </children>
 </archimate:SketchModel>
