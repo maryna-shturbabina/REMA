@@ -32,11 +32,11 @@
     <children
         xsi:type="archimate:SketchModelSticky"
         id="240e9257-8423-4334-add7-5049fdc7fc5e"
-        name="fsdfsdfdsfsdfasdfsadfasdfsadfsdaf"
         targetConnections="505b055d-3135-43ce-993a-a838e75e61a0"
         lineColor="#5c5c5c"
         textAlignment="1"
-        fillColor="#b5ffff">
+        fillColor="#b5ffff"
+        content="sdfsdfdsfdsf">
       <sourceConnections
           id="f44fb955-2a32-4ee2-8578-6b93b8536a97"
           source="240e9257-8423-4334-add7-5049fdc7fc5e"
@@ -275,6 +275,7 @@
         xsi:type="archimate:SketchModelSticky"
         id="9ed1c2ff-dc59-49aa-a6ed-e3df22d0ab8c"
         name="Sticky"
+        targetConnections="1cf14d02-d237-45ec-9b57-5229b43f856c"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#b5ffff">
@@ -395,6 +396,7 @@
         xsi:type="archimate:SketchModelSticky"
         id="8cc23451-25b9-45f0-83a5-5b3a84aa1d2f"
         name="Sticky"
+        targetConnections="85f2dc01-18cb-439d-92e6-b0aa70cdb6e6"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#b5ffff">
@@ -512,6 +514,36 @@
     <bounds
         x="132"
         y="612"
+        width="75"
+        height="100"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="be0595c2-ad1b-4e19-99fd-5fd7f51dd9be"
+      name="Backoffice user">
+    <sourceConnections
+        id="1cf14d02-d237-45ec-9b57-5229b43f856c"
+        source="be0595c2-ad1b-4e19-99fd-5fd7f51dd9be"
+        target="9ed1c2ff-dc59-49aa-a6ed-e3df22d0ab8c"
+        type="3"/>
+    <bounds
+        x="154"
+        y="965"
+        width="75"
+        height="100"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="864a23f9-dc67-4b26-8466-9e7ac3b8ae5e"
+      name="Consumer">
+    <sourceConnections
+        id="85f2dc01-18cb-439d-92e6-b0aa70cdb6e6"
+        source="864a23f9-dc67-4b26-8466-9e7ac3b8ae5e"
+        target="8cc23451-25b9-45f0-83a5-5b3a84aa1d2f"
+        type="1"/>
+    <bounds
+        x="144"
+        y="1296"
         width="75"
         height="100"/>
   </children>
